@@ -1,3 +1,3 @@
 
-Repo pelatihan
+Pelatihan WEB GIS with Yii
 -------------------
